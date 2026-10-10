@@ -1,0 +1,4 @@
+# Databricks asset types not supported by Git folders
+*.geniespace.json
+*.dbalert.json
+*.lvdash.json
